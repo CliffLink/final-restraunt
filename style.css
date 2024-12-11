@@ -51,6 +51,16 @@ header {
     color: white;
 }
 
+.button2:hover {
+    background-color: #16565c;
+    color: white;
+}
+
+.delivery-btn:hover {
+    background-color: #16565c;
+    color: white;
+}
+
 .aboutUs {
     height: 600px;
     background-image: url('https://media.zenfs.com/en/wcmh_articles_195/7e131157416ccb6792acb67eac2139b7');
@@ -458,6 +468,7 @@ p {
     margin-top: 50px;
     border: none;
     margin-bottom: 50px;
+    color: white;
     
 }
 
@@ -522,6 +533,7 @@ footer {
     border-radius: 50px;
     margin-top: 50px;
     border: none;
+    color: white;
    
 }
 
